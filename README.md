@@ -1,4 +1,3 @@
-
-
-
-Merge conflicts are the conflicts arrising when two devlopers change the same line of code.
+# experiment
+This is a readme file to understand merge conflicts and resolve them.
+Merge conflicts must to resolved manually.
